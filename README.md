@@ -31,7 +31,6 @@ If you would like to contribute to the development of the website, it is advisab
 contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/website_readme.md) 
 
 
-
 **Note:**
 
 - To be a member of the community, raise an [invitation issue here](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)!
