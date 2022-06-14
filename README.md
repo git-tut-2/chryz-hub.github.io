@@ -1,6 +1,10 @@
 # The Chryz-hub Community 
 
-<p align="center"><img src="https://avatars.githubusercontent.com/u/78741698?s=200&v=4" /></p>
+<p align="center">
+  <a href="https://chryz-hub.github.io/">
+    <img src="https://avatars.githubusercontent.com/u/78741698?s=200&v=4" />
+  </a>
+</p>
 
 ### Welcome To The World of Open Source, where your ideas and contributions count and are highly appreciated.
 
@@ -12,25 +16,24 @@
 
 ## Contributing
 
-Pull requests and Issues are highly welcomed. If you'll like to create an [issue click here](https://github.com/chryz-hub/chryz-hub.github.io/issues), but please make sure to check the [contributing guide lines](CONTRIBUTING.md). 
+Pull requests and Issues are highly welcomed. If you'd like to create an issue [click here](https://github.com/chryz-hub/chryz-hub.github.io/issues), but please make sure to check the [contributing guide lines](CONTRIBUTING.md). 
 
-Please while creating an issue, do ensure to check if such issue has been created already to avoid duplicates.
+Please while creating an issue, do check if such issue has been created already to avoid duplicates.
 
-### Here's a preview of the community website
+### Here's a preview of the community website:
 
-![preview](https://jomefavourite.github.io/Images/preview-chryz_hub.png)
+[![preview](https://jomefavourite.github.io/Images/preview-chryz_hub.png)](https://chryz-hub.github.io/)
 
 [View the complete markup here](https://www.figma.com/file/N8ef18pNNEN6Hkht2r44nZ/Chryz-hub?node-id=126%3A22)
 
 
-If you would like to contribute to the development of the website. It is advisable you check the [website 
-contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/oldreadme.md) 
-
+If you would like to contribute to the development of the website, it is advisable you check the [website 
+contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/website_readme.md) 
 
 
 **Note:**
 
-- To be a member of the community, raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
+- To be a member of the community, raise an [invitation issue here](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)!
 
 - To make your first pull request [click here](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)!
 
@@ -60,10 +63,21 @@ contributions guide.](https://github.com/chryz-hub/chryz-hub.github.io/blob/mast
 - 👯[The Chryz-Hub Members](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/MEMBERS.md)
 
 ## Find us on
-
-<a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a><br>
-<a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
-<a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a><br>
-<a href="https://twitter.com/ChryzHub">
-<img src="https://img.shields.io/twitter/url?label=twitter&logo=twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FChryzHub">
+<p align = "left">
+<a href="https://discord.gg/c6RhGwcP5b">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
+<a href="https://github.com/chryz-hub">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px">
+</a>
+<a href="https://youtube.com/channel/UCxro6LYOp3pmmuWDPMg-p1Q">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+<a href="https://twitter.com/ChryzHub">
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/company/chryzhub/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+</p>
+
